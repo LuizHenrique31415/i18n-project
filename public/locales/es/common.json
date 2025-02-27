@@ -1,0 +1,9 @@
+{
+    "greeting": "¡Hola, mundo!",
+    "welcome": "Bienvenido a mi proyecto",
+    "description": "Este es un proyecto multilingüe con Next.js",
+    "changeLanguage": "Cambiar idioma",
+    "portuguese": "Portugués",
+    "english": "Inglés",
+    "spanish": "Español"
+  }
